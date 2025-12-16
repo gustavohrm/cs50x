@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow dirs
+!*/
+
+# Allow files below
+!*.c
+!*.h
+!.md
+!.gitignore
+!Makefile
